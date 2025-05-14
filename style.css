@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(118, 255, 255);
+  padding: 30px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+  color: rgb(11, 11, 100);
+}
+.titulo-principal {
+  color: red;
+}
+.imagen-centrada {
+  margin: auto;
+  display: block;
+  border-radius: 20px;
+}
